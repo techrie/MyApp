@@ -12,7 +12,7 @@ const LiveChat = () => {
   const chatMessages = useSelector((store) => store.chat.messages);
 
   useEffect(() => {
-    console.log("API call");
+    //console.log("API call");
     let interval = setInterval(() => {
       //API Polling
 

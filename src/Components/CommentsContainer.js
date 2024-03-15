@@ -3,45 +3,45 @@ import { nanoid } from "nanoid";
 
 const commentsData = [
   {
-    name: "Poo",
+    name: "Random",
     text: "lorem ipsum dolor",
     replies: [
       {
-        name: "Poo",
+        name: "Random",
         text: "lorem ipsum dolor",
         replies: [],
       },
     ],
   },
   {
-    name: "Poo",
+    name: "Random",
     text: "lorem ipsum dolor",
     replies: [
       {
-        name: "Poo",
+        name: "Random",
         text: "lorem ipsum dolor",
         replies: [
           {
-            name: "Poo",
+            name: "Random",
             text: "lorem ipsum dolor",
             replies: [
               {
-                name: "Poo",
+                name: "Random",
                 text: "lorem ipsum dolor",
                 replies: [
                   {
-                    name: "Poo",
+                    name: "Random",
                     text: "lorem ipsum dolor",
                     replies: [
                       {
-                        name: "Poo",
+                        name: "Random",
                         text: "lorem ipsum dolor",
                         replies: [],
                       },
                     ],
                   },
                   {
-                    name: "Poo",
+                    name: "Random",
                     text: "lorem ipsum dolor",
                     replies: [],
                   },
@@ -54,20 +54,20 @@ const commentsData = [
     ],
   },
   {
-    name: "Poo",
+    name: "Random",
     text: "lorem ipsum dolor",
     replies: [],
   },
   {
-    name: "Poo",
+    name: "Random",
     text: "lorem ipsum dolor",
     replies: [
       {
-        name: "Poo",
+        name: "Random",
         text: "lorem ipsum dolor",
         replies: [
           {
-            name: "Poo",
+            name: "Random",
             text: "lorem ipsum dolor",
             replies: [],
           },
